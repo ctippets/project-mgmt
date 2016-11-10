@@ -26,4 +26,4 @@ When you are done, click on the [EXERCISES](/EXERCISES/) folder and follow the i
 
 For more practice in GitHub including learning about branches, try this exercise: https://guides.github.com/activities/hello-world/ 
 
-This is Caroline's copy of the original from StephWright. 
+This is Caroline's copy of the original from StephWright. :baby_chick:
